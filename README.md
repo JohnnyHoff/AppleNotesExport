@@ -1,5 +1,3 @@
-Okay, here is a draft for a comprehensive `README.md` file for your Apple Notes export script on GitHub.
-
 ```markdown
 # Apple Notes Export Script
 
