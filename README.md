@@ -1,4 +1,3 @@
-```markdown
 # Apple Notes Export Script
 
 This Python script exports notes from the Apple Notes application (`NoteStore.sqlite`) into more portable formats: individual Markdown files (with attachments) or a single consolidated text file suitable for ingestion by Large Language Models (LLMs).
